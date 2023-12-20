@@ -1,4 +1,4 @@
-FROM httpd
+FROM nginx:alpine
 
 WORKDIR /app
 
